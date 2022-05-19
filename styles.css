@@ -31,13 +31,6 @@ body, html {
     font-family: var(--font);
 }
 
-  .photo {
-      width: 150px;
-      height: 170px;
-      border-radius: calc(var(--image) * 2);
-      border: 4px solid var(--text);
-}
-
     .pp {
         width: 100%;
         height: 100%;
